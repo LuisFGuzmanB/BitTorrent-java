@@ -1,0 +1,1 @@
+Bencode es un formato de codificación de datos utilizado por el protocolo BitTorrent. El formato es una especificación de nivel superior de los tipos de datos básicos comunes a la mayoría de los lenguajes de programación modernos. Dos implementaciones de referencia de la especificación son libtorrent y BitTorrent. El nombre bencode es un acrónimo de BitTorrent y encoding.
